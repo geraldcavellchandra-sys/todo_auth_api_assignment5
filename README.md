@@ -37,7 +37,7 @@ Supported actions:
 
 ---
 
-## 📍 API Endpoints
+## API Endpoints
 
 Below is the list of available API endpoints in this project, including their HTTP method, authentication requirement, and purpose.
 
@@ -245,9 +245,9 @@ Expected Response: **200 OK**
 }
 
 ## Example API Call Log
-127.0.0.1 - - [05/Dec/2025 00:24:29] "POST /register HTTP/1.1" 201 -
-127.0.0.1 - - [05/Dec/2025 00:24:53] "POST /login HTTP/1.1" 200 -
-127.0.0.1 - - [05/Dec/2025 00:25:37] "POST /todos HTTP/1.1" 201 -
-127.0.0.1 - - [05/Dec/2025 00:26:01] "GET /todos HTTP/1.1" 200 -
-127.0.0.1 - - [05/Dec/2025 00:26:29] "PUT /todos/1 HTTP/1.1" 200 -
-127.0.0.1 - - [05/Dec/2025 00:26:52] "DELETE /todos/1 HTTP/1.1" 200 -
+- 127.0.0.1 - - [05/Dec/2025 00:24:29] "POST /register HTTP/1.1" 201 -
+- 127.0.0.1 - - [05/Dec/2025 00:24:53] "POST /login HTTP/1.1" 200 -
+- 127.0.0.1 - - [05/Dec/2025 00:25:37] "POST /todos HTTP/1.1" 201 -
+- 127.0.0.1 - - [05/Dec/2025 00:26:01] "GET /todos HTTP/1.1" 200 -
+- 127.0.0.1 - - [05/Dec/2025 00:26:29] "PUT /todos/1 HTTP/1.1" 200 -
+- 127.0.0.1 - - [05/Dec/2025 00:26:52] "DELETE /todos/1 HTTP/1.1" 200 -
