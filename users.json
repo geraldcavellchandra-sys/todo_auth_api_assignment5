@@ -1,5 +1,8 @@
 {
   "richard": {
     "password": "scrypt:32768:8:1$TgJoDjFU21TUZtM8$a044783b7b939b02682b4923780c31a7d53478b49512de485e82c87886d36b0f22a765dacc088d1c7b1a9381a4df46cc92935115484f3c42e554acdb1c5152f3"
+  },
+  "ichard": {
+    "password": "scrypt:32768:8:1$klX3KrpSUwZwC5Eh$3d459c9fe655c4f8678b3631e06d988b421ae861087f92551d7ba7ee0cc5521b010dcce98d20034fb65e1ab2b52bf7c66b9bfefe95119c6454bcc957a3e7442b"
   }
 }
